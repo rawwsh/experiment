@@ -1,0 +1,8 @@
+{
+  "name": "Raashid's Internal Tools",
+  "description": "A high-performance utility suite for video conversion, image processing, and PDF management, featuring a systemic UI and AI-powered file assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
